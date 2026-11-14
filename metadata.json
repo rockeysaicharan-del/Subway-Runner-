@@ -1,0 +1,6 @@
+{
+  "name": "Subway Web Runner",
+  "description": "A realistic 3D endless subway runner with unlockable classic suit skins and half-coin progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
